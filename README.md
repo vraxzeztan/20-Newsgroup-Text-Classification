@@ -35,7 +35,7 @@ Each newsgroup is stored in a subdirectory, with each article stored as a separa
 ### Link to the Dataset
 http://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups
 ### A sample article from the Dataset
-![image info]('Screen Shot 2019-07-09 at 12.54.23 PM.png')
+![image info](./0.png)
 
 ## Implementation
 Multinomial Naive Bayes was used to classify a given article into one of the 20 newsgroups.The Multinomial Naive Bayes implementation from sklearn aswell as my own self implementation were used for the classification and their results were compared.It was seen that both the implementations gave the exact same results hence both the implementations must be same.
